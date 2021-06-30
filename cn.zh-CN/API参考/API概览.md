@@ -13,20 +13,6 @@
 |[GetUser](/cn.zh-CN/API参考/系统设置/GetUser.md)|调用GetUser查询单个用户信息。|
 |[UnassignUser](/cn.zh-CN/API参考/系统设置/UnassignUser.md)|调用UnassignUser取消用户权限。|
 
-## 陈列系统
-
-|API|描述|
-|---|--|
-|[AddPlanogramShelf]()|调用AddPlanogramShelf新增货架。|
-|[AssociatePlanogramRail]()|调用AssociatePlanogramRail新增或修改导轨和货架的映射关系。|
-|[ComposePlanogramPositions]()|调用ComposePlanogramPositions操作陈列位置。|
-|[DescribePlanogramRails]()|调用DescribePlanogramRails查询导轨和货架的映射关系列表。|
-|[DissociatePlanogramRail]()|调用DissociatePlanogramRail删除导轨和货架的映射关系。|
-|[DeletePlanogramShelf]()|调用DeletePlanogramShelf删除货架。|
-|[DescribePlanogramEslDevices]()|调用DescribePlanogramEslDevices查询陈列价签位置信息。|
-|[DescribePlanogramShelves]()|调用DescribePlanogramShelves查询门店下所有的货架信息。|
-|[DescribePlanogramPositions]()|调用DescribePlanogramPositions查询陈列货位信息。|
-
 ## 业务管理
 
 |API|描述|

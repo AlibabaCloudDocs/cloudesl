@@ -74,24 +74,10 @@
 
 商品信息的下列字段会用于匹配模板显示，优先级从高到低
 
-1.
-
 -   TemplateSceneId：尝试匹配客户自定义模板；
-
-    2.
-
 -   InventoryStatus：尝试匹配缺货模板；
-
-    3.
-
 -   BeMember：尝试匹配会员模板；
-
-    4.
-
 -   BeSourceCode：尝试匹配溯源模板；
-
-    5.
-
 -   BePromotion：尝试匹配促销模板；
 
 ## 返回数据

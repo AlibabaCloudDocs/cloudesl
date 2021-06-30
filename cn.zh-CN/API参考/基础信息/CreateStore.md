@@ -12,9 +12,11 @@
 |--|--|----|---|--|
 |Action|String|是|CreateStore|系统规定参数。取值：CreateStore。 |
 |StoreName|String|是|天猫旗舰店|门店名称 |
-|Phone|String|是|0571-5666888|门店所在监督工商局的监督电话 |
+|Phone|String|是|0571-5666888|门店联系电话 |
 |UserStoreCode|String|否|20200201|商家自定义门店ID |
 |ParentId|String|否|s-dxsxx\*\*\*\*|父门店ID |
+|ClientToken|String|否|1212|客户端token |
+|ExtraParams|String|否|\{\}|系统保留字段，请忽略 |
 
 ParentId字段，暂时不支持。
 

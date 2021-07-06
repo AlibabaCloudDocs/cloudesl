@@ -77,6 +77,7 @@
 -   TemplateSceneId：尝试匹配客户自定义模板；
 -   InventoryStatus：尝试匹配缺货模板；
 -   BeMember：尝试匹配会员模板；
+-   BeSourceCode && BePromotion：尝试匹配营销模板；
 -   BeSourceCode：尝试匹配溯源模板；
 -   BePromotion：尝试匹配促销模板；
 

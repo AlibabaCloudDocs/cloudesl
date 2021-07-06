@@ -28,7 +28,7 @@
 -   `OPERATION_TYPE_DISPLAY_FAILED_RETRY`：操作重试
     -   显示失败
 -   `OPERATION_TYPE_LIGHT_UP_ESL_LED`：价签亮灯。 |
-|UserId|String|否|134\*\*\*\*|阿里云子账号UID。 |
+|UserId|String|否|134\*\*\*\*|阿里云账号UID。 |
 |EslBarCode|String|否|18bc5a63\*\*\*\*|价签条码。 |
 |ItemBarCode|String|否|690560583\*\*\*\*|商品条码。 |
 |ItemShortTitle|String|否|牛奶|商品短标题。 |
@@ -47,8 +47,6 @@
 |PageNumber|Integer|否|1|分页参数：当前页码，默认值1。 |
 |PageSize|Integer|否|10|分页参数：每页显示条数，默认值10。 |
 |ExtraParams|String|否|\{\}|系统保留字段，请忽略； |
-
-UserId字段暂时不支持
 
 ## 返回数据
 
